@@ -1,5 +1,7 @@
 # BACT.life
 
+![alt text]()
+
 AUTHORS<br>
 Barazzetta Rachele <br>
 Invernizzi Alicia<br>
