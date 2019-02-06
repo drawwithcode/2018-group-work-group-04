@@ -54,4 +54,6 @@ We are aware that the code might not be written in the simplest and most correct
 <br>
 ## Inspirations<br>
 ![alt text](https://github.com/drawwithcode/2018-group-work-group-04/blob/master/klari.png)<br>
+<br>
 In particular, we have been mostly inspired by the work of Klari (here you can visit her website https://www.klariart.com/petri/), that collaborated with microbiologists to create artistic Petri dishes in which bacteria had grown. We were amazed by how science can be seen from a different perspective and explored through this fuzzy line between the technological and the natural.
+<br>
