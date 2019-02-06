@@ -42,7 +42,7 @@ We wanted to have a very clean and simple style to represent a scientific settin
 ![alt text](https://github.com/drawwithcode/2018-group-work-group-04/blob/master/click.gif)
 
 ### Rub your hand to delete the bacteria<br>
-![alt text](https://github.com/drawwithcode/2018-group-work-group-04/blob/master/rub.gif)
+![alt text](https://github.com/drawwithcode/2018-group-work-group-04/blob/master/rub.gif)<br>
 <br>
 Most of the interactions can be carried out with the mouse and there’s one last interaction which requires the use of the hands. We thought that this kind of interaction, different from the regular click, would engage the users more. In this way the site is less aseptic and they can comprehend the whole process better.<br>
 <br>
