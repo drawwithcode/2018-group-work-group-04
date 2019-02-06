@@ -49,7 +49,8 @@ function draw() {
   var c = 20;
 
   if(mouseX > rx && mouseX < (rx + rw) && mouseY > ry && mouseY < (ry + rh) && mouseIsPressed == true){
-  window.location.href="03colonieBatt.html";
+    window.location.href="03colonieBatt.html";
+    loop();
   }
   fill(color(193, 241, 255));
   stroke(color(52, 113, 164));
@@ -58,13 +59,15 @@ function draw() {
 
   push();
   fill(color(52, 113, 164));
-  noStroke();
-  text("Go back to the map", windowWidth/2 + 364, windowHeight/2 + 311);
+  textFont('Josefin Sans');
   textAlign(CENTER);
-  textFont("Josefin Sans");
-  textSize(30);
+  textSize(17);
+  noStroke();
+  text("Go back to the map", windowWidth/2 + 410, windowHeight/2 + 313);
   pop();
+}
 
-  if (vol > 3) {
-  }
+
+function mousePressed() {
+  loop();
 }

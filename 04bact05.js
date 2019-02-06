@@ -58,14 +58,14 @@ function draw() {
 
   push();
   fill(color(52, 113, 164));
-  noStroke();
-  text("Go back to the map", windowWidth/2 + 364, windowHeight/2 + 311);
+  textFont('Josefin Sans');
   textAlign(CENTER);
-  textFont("Josefin Sans");
-  textSize(30);
+  textSize(17);
+  noStroke();
+  text("Go back to the map", windowWidth/2 + 410, windowHeight/2 + 313);
   pop();
+}
 
-  if (vol > 10) {
-
-  }
+function mousePressed() {
+  loop();
 }

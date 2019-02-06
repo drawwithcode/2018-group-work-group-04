@@ -67,13 +67,13 @@ function draw() {
 
   myBact01 = new Bact(bact01, 500, 300, bact01.width /3, bact01.height / 3, '04bact01.html');
 
-  myBact02 = new Bact(bact02, 1200, 1100, bact02.width / 4, bact02.height / 4, '04bact02.html');
+  myBact02 = new Bact(bact02, 1200, 1400, bact02.width / 4, bact02.height / 4, '04bact02.html');
 
-  myBact03 = new Bact(bact03, 2200, 1000, bact03.width / 6, bact03.height / 6, '04bact03.html');
+  myBact03 = new Bact(bact03, 2200, 1400, bact03.width / 6, bact03.height / 6, '04bact03.html');
 
   myBact04 = new Bact(bact04, 1500, 600, bact04.width / 6, bact04.height / 6, '04bact04.html');
 
-  myBact05 = new Bact(bact05, 2500, 200, bact05.width / 6, bact05.height / 6, '04bact05.html');
+  myBact05 = new Bact(bact05, 2700, 400, bact05.width / 6, bact05.height / 6, '04bact05.html');
 
   myBact06 = new Bact(bact06, 300, 900, bact06.width / 6, bact06.height / 6, '04bact06.html');
 
@@ -83,16 +83,16 @@ function draw() {
   cur1 = new Curiosities(1000, 300, 60, curImg01);
   cur1.display();
 
-  cur2 = new Curiosities(1900, 200, 60, curImg02);
+  cur2 = new Curiosities(1900, 300, 60, curImg02);
   cur2.display();
 
   cur3 = new Curiosities(2300, 600, 60, curImg03);
   cur3.display();
 
-  cur4 = new Curiosities(700, 1000, 60, curImg04);
+  cur4 = new Curiosities(600, 1300, 60, curImg04);
   cur4.display();
 
-  cur5 = new Curiosities(1700, 900, 60, curImg05);
+  cur5 = new Curiosities(1700, 1100, 60, curImg05);
   cur5.display();
 
   cur6 = new Curiosities(2500, 1100, 60, curImg06);
