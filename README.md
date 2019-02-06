@@ -1,6 +1,6 @@
 # BACT.life
 
-![alt text]()
+![alt text](https://github.com/drawwithcode/2018-group-work-group-04/blob/master/cover.png)
 
 AUTHORS<br>
 Barazzetta Rachele <br>
