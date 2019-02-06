@@ -1,7 +1,7 @@
 # BACT.life
 
 Authors
-Barazzetta Rachele
+Barazzetta Rachele <br>
 Invernizzi Alicia
 Lacroce Arianna
 Ravasi Giulia
