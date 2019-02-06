@@ -22,7 +22,7 @@ That’s when we decided we wanted to work on this subject and we started thinki
 The hard part of the project was deciding the steps that would make the process understandable for everyone. It was pretty clear to us because we analyzed it but we though that it might look complicated for others. So we simplified the whole thing to 3 main passages: spreading the gel on the Petri dish, dropping the colorants in it and then, once the cultures are shown, rubbing hands to experience how hard it is to eliminate all the bacteria on our hands.<br>
 <br>
 ## Graphic Style<br>
-We wanted to have a very clean and simple style to represent a scientific setting but also use some color to give it a more lively look. We decided to use colors that recall the laboratory setting combined with the bright and playful colors of the bacteria cultures. We also chose a font, Josefin Sans, that would look simple but also not too serious or stiff.<br>
+We wanted to have a very clean and simple style to represent a scientific setting but also use some color to give it a more lively look. We decided to use colors that recall the laboratory setting combined with the bright and playful colors of the bacteria cultures. We chose a font, Josefin Sans, that would look simple but also not too serious or stiff. We also thought that to make the whole process fully understandable we needed to put some informations about the bacteria. Now the user knows what he’s doing and why and also what he’s looking at.<br>
 <br>
 ## Interactions<br>
 
